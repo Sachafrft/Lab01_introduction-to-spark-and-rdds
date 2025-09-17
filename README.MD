@@ -11,7 +11,7 @@
 ### We have made this lab on a image Docker for Spark and Jupyter.
 
 Docker Image Running :
-![Docker Image Running](img\docker_running.png)
+![Docker Image Running](img/docker_running.png)
 
 Jupyter Notebook running on Docker Image :
-![Jupyter Notebook running on Docker Image](img\localhost_docker.png)
+![Jupyter Notebook running on Docker Image](img/localhost_docker.png)
